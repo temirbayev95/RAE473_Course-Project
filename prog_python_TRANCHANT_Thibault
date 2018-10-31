@@ -1,0 +1,9 @@
+import os
+name= input ("Names of the txt : ")
+os.system("echo > "+str(name)+".txt")
+#test=open(str(name)+".txt","w")
+#test.close()
+pop= input ("ENTER IP ADRESS : ")
+n= input("ENTER THE NUMBER OF ITERATION :")
+os.system("ping "+str(pop)+" -c"+str(n)+">> "+str(name)+".txt")
+
