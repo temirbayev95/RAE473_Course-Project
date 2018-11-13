@@ -5,5 +5,5 @@ Each team is given a data file (or a set of data files) to work with.
 * .xls; 
 * .csv;
 * .json;
-* .html;
+* .html.
 
