@@ -1,9 +1,9 @@
 # Course project instructions
 
 **Data sources** 
--.txt; 
--.xls; 
--.html;
--. csv;
-- .json.
+* .txt; 
+* .xls; 
+* .html;
+* . csv;
+* .json.
 
