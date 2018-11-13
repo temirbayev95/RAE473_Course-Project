@@ -1,1 +1,3 @@
-# Instructions for course project will be put here...
+# Course project instructions
+Data sources (.txt; .xls; .html) --> Information
+
