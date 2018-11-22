@@ -1,5 +1,5 @@
 import os
-name= input ("Names of the txt : ")
+name= input ("NAME OF TXT : ")
 os.system("echo > "+str(name)+".txt")
 #test=open(str(name)+".txt","w")
 #test.close()
